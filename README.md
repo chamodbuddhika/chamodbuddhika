@@ -1,41 +1,58 @@
-# Vehan Rajintha's GitHub Profile
+# Chamod Buddhika GitHub Profile
 
 ## Hi there 👋
 
-![Views: 30/11091](https://img.shields.io/badge/Views-30%2F11091-brightgreen) ![Forks: 1](https://img.shields.io/badge/Forks-1-blue) ![Stars: 9](https://img.shields.io/badge/Stars-9-yellow)
+### Let's Get Started
 
-Repo Size: 31.7 kB | License: GPL-3.0 | Author: Vehan Rajintha
+#### Chamod Buddhika's GitHub Stats
 
-### Don't F
-
-#### Vehan Rajintha's GitHub Stats
-
-- Total Stars Earned: 350
-- Total Commits (2024): 731
-- Total PRs: 3
-- Total Issues: 0
-- Contributed to (last year): 1
+<table>
+  <tr>
+    <td>Total Stars Earned:</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Total Commits (2024):</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Total PRs:</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Total Issues:</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Contributed to (last year):</td>
+    <td>0</td>
+  </tr>
+</table>
 
 #### Most Used Languages
 
-- HTML: 71.71%
-- TypeScript: 2.04% 
-- Kotlin: 9.93%
-- JavaScript: 1.28%
-- CSS: 2.27%
-- PHP: 2.27%
-- Shell: 0.70%
+```mermaid
+pie
+  title Most Used Languages
+  "HTML" : 20
+  "TypeScript" : 2.0
+  "JavaScript" : 1.28
+  "CSS" : 2.27
+  "PHP" : 2.27
+  "PYTHON" :2.27
+  
+```
 
-### Hi there 👋
+### About Me
 
-- 🙋‍♂️ I'm Vehan Rajintha
-- 📚 I'm 21 years old
-- 💻 I'm interested in HTML/CSS, JavaScript, C++, Hacking, Web developing and...
-- 🌱 I'm currently reading Computer Systems and Network Engineering Degree at SLIIT.
-- 📢 I'm also member of KCD, GDG & AICSL.
-- 🤝 I'm looking to collaborate on building websites and web apps, developing linux tools, Linux server operations and...
-- 📧 Email me via [it23646360@my.sliit.lk](mailto:it23646360@my.sliit.lk) to contact
-- 📷 Follow me on Instagram [https://www.instagram.com/vehanrajintha/](https://www.instagram.com/vehanrajintha/)
-- 📱 Text me on WhatsApp +94713910417
+- 🙋‍♂️ I'm Chamod Budhhika
+- 📚 I'm 22 years old
+- 💻 I'm an undergraduate pursuing a BICT Hons degree at the University of Jayewardenepura  
+- 🌱 I'm following the Full Stack Developer path  
+- 📢 I have experience in Java, Python, and C#  
+- 🤝 I’ve created projects like a **Flappy Bird Game**, **Hand Gesture Control System**, and a **Facial Recognition System**
+- 🌟 I'm passionate about Web Development, Mobile GPS features, and Robotic Process Automation (RPA)  
+- 📧 Email me: [buddhikaJayaneththi765@gmail.com](mailto:buddhikajayaneththi@gmail.com)
+- 📱 WhatsApp: +94702926280
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vehanrajintha&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodbuddhika&show_icons=true&theme=tokyonight)
